@@ -1,0 +1,7 @@
+node_modules
+package-lock.json
+yarn.lock
+yarn-error.log
+ethereum/node_modules
+ethereum/package-lock.json
+ethereum/script.sh
